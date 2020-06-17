@@ -1,4 +1,4 @@
-## My Blog Posts
+# My Blog Posts
 
 You are welcome to my digital space on Hashnode. This is my first blog post here.
 
